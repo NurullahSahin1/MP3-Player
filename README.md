@@ -25,3 +25,5 @@ Adding More Features: Feel free to extend the functionality by adding shuffle, r
 Contributing
 
 Contributions are welcome! If you have any ideas or improvements, please create an issue or submit a pull request.</p>
+
+![](kısatanıtım.gif)
